@@ -1,0 +1,148 @@
+ERROR:tornado.general:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/afs/cern.ch/user/p/psajdak/eos_mine/project_CERN/venv3_9/lib64/python3.9/site-packages/traitlets/traitlets.py", line 632, in get
+    value = obj._trait_values[self.name]
+KeyError: '_control_lock'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/afs/cern.ch/user/p/psajdak/eos_mine/project_CERN/venv3_9/lib64/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 565, in _log_error
+    f.result()
+  File "/afs/cern.ch/user/p/psajdak/eos_mine/project_CERN/venv3_9/lib64/python3.9/site-packages/ipykernel/kernelbase.py", line 301, in dispatch_control
+    async with self._control_lock:
+  File "/afs/cern.ch/user/p/psajdak/eos_mine/project_CERN/venv3_9/lib64/python3.9/site-packages/traitlets/traitlets.py", line 687, in __get__
+    return t.cast(G, self.get(obj, cls))  # the G should encode the Optional
+  File "/afs/cern.ch/user/p/psajdak/eos_mine/project_CERN/venv3_9/lib64/python3.9/site-packages/traitlets/traitlets.py", line 649, in get
+    value = self._validate(obj, default)
+  File "/afs/cern.ch/user/p/psajdak/eos_mine/project_CERN/venv3_9/lib64/python3.9/site-packages/traitlets/traitlets.py", line 722, in _validate
+    value = self.validate(obj, value)
+  File "/afs/cern.ch/user/p/psajdak/eos_mine/project_CERN/venv3_9/lib64/python3.9/site-packages/traitlets/traitlets.py", line 2311, in validate
+    self.error(obj, value)
+  File "/afs/cern.ch/user/p/psajdak/eos_mine/project_CERN/venv3_9/lib64/python3.9/site-packages/traitlets/traitlets.py", line 831, in error
+    raise TraitError(e)
+traitlets.traitlets.TraitError: The '_control_lock' trait of an IPythonKernel instance expected a Lock, not the NoneType None.
+Package                       Version
+----------------------------- -----------
+absl-py                       1.4.0
+asttokens                     3.0.0
+astunparse                    1.6.3
+attrs                         25.3.0
+bitarray                      3.6.1
+bitstring                     4.3.1
+cachetools                    5.5.2
+calmjs.parse                  1.3.3
+certifi                       2025.8.3
+charset-normalizer            3.4.3
+clize                         5.0.2
+coloredlogs                   15.0.1
+comm                          0.2.3
+contourpy                     1.3.0
+cycler                        0.12.1
+debugpy                       1.8.16
+decorator                     5.2.1
+dm-tree                       0.1.8
+docutils                      0.22
+exceptiongroup                1.3.0
+executing                     2.2.0
+flatbuffers                   25.2.10
+fonttools                     4.59.1
+gast                          0.6.0
+google-auth                   2.40.3
+google-auth-oauthlib          1.0.0
+google-pasta                  0.2.0
+graphviz                      0.21
+grpcio                        1.74.0
+h5py                          3.14.0
+hls4ml                        0.8.1
+humanfriendly                 10.0
+idna                          3.10
+importlib_metadata            8.7.0
+importlib_resources           6.5.2
+ipykernel                     6.30.1
+ipython                       8.18.1
+jedi                          0.19.2
+joblib                        1.5.1
+jupyter_client                8.6.3
+jupyter_core                  5.8.1
+keras                         2.14.0
+keras-tuner                   1.4.7
+kiwisolver                    1.4.7
+kt-legacy                     1.0.5
+libclang                      18.1.1
+Markdown                      3.8.2
+MarkupSafe                    3.0.2
+matplotlib                    3.9.4
+matplotlib-inline             0.1.7
+ml-dtypes                     0.2.0
+mpmath                        1.3.0
+nest-asyncio                  1.6.0
+netron                        8.5.1
+networkx                      3.2.1
+numpy                         1.26.4
+oauthlib                      3.3.1
+od                            2.0.2
+onnx                          1.17.0
+onnxruntime                   1.19.2
+opt_einsum                    3.4.0
+packaging                     25.0
+pandas                        2.3.1
+parse                         1.6.5
+parso                         0.8.4
+pexpect                       4.9.0
+pillow                        11.3.0
+pip                           25.2
+platformdirs                  4.3.8
+plotting                      0.0.7
+ply                           3.11
+prompt_toolkit                3.0.51
+protobuf                      3.20.3
+psutil                        7.0.0
+ptyprocess                    0.7.0
+pure_eval                     0.2.3
+pyasn1                        0.6.1
+pyasn1_modules                0.4.2
+pyDigitalWaveTools            1.1
+pydot                         4.0.1
+Pygments                      2.19.2
+pyparser                      1.0
+pyparsing                     3.2.3
+python-dateutil               2.9.0.post0
+pytz                          2025.2
+PyYAML                        6.0.2
+pyzmq                         27.0.1
+QKeras                        0.9.0
+qonnx                         0.4.0
+requests                      2.32.4
+requests-oauthlib             2.0.0
+rsa                           4.9.1
+scikit-learn                  1.6.1
+scipy                         1.13.1
+seaborn                       0.13.2
+setuptools                    53.0.0
+sigtools                      4.0.1
+six                           1.17.0
+stack-data                    0.6.3
+sympy                         1.14.0
+tabulate                      0.9.0
+tensorboard                   2.14.1
+tensorboard-data-server       0.7.2
+tensorflow                    2.14.0
+tensorflow-estimator          2.14.0
+tensorflow-io-gcs-filesystem  0.37.1
+tensorflow-model-optimization 0.8.0
+termcolor                     3.1.0
+tf2onnx                       1.16.1
+threadpoolctl                 3.6.0
+toposort                      1.10
+tornado                       6.5.2
+tqdm                          4.67.1
+traitlets                     5.14.3
+typing_extensions             4.14.1
+tzdata                        2025.2
+urllib3                       2.5.0
+wcwidth                       0.2.13
+Werkzeug                      3.1.3
+wheel                         0.45.1
+wrapt                         1.14.2
+zipp                          3.23.0
