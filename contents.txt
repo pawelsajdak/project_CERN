@@ -1,0 +1,593 @@
+data
+data/Background_data
+data/Background_data/Test
+data/Background_data/Test/DATA
+data/Background_data/Test/ET
+data/Background_data/Test/HT
+data/Background_data/Test/L1bits
+data/Background_data/Test/PU
+data/Background_data/Train
+data/Background_data/Train/DATA
+data/Background_data/Train/ET
+data/Background_data/Train/HT
+data/Background_data/Train/L1bits
+data/Background_data/Train/PU
+data/Normalisation
+data/Normalisation/norm_bias
+data/Normalisation/norm_scale
+data/Signal_data
+data/Signal_data/GluGluHToBB_M-125
+data/Signal_data/GluGluHToBB_M-125/DATA
+data/Signal_data/GluGluHToBB_M-125/ET
+data/Signal_data/GluGluHToBB_M-125/HT
+data/Signal_data/GluGluHToBB_M-125/L1bits
+data/Signal_data/GluGluHToBB_M-125/PU
+data/Signal_data/GluGluHToGG_M-125
+data/Signal_data/GluGluHToGG_M-125/DATA
+data/Signal_data/GluGluHToGG_M-125/ET
+data/Signal_data/GluGluHToGG_M-125/HT
+data/Signal_data/GluGluHToGG_M-125/L1bits
+data/Signal_data/GluGluHToGG_M-125/PU
+data/Signal_data/GluGluHToGG_M-90
+data/Signal_data/GluGluHToGG_M-90/DATA
+data/Signal_data/GluGluHToGG_M-90/ET
+data/Signal_data/GluGluHToGG_M-90/HT
+data/Signal_data/GluGluHToGG_M-90/L1bits
+data/Signal_data/GluGluHToGG_M-90/PU
+data/Signal_data/GluGluHToTauTau
+data/Signal_data/GluGluHToTauTau/DATA
+data/Signal_data/GluGluHToTauTau/ET
+data/Signal_data/GluGluHToTauTau/HT
+data/Signal_data/GluGluHToTauTau/L1bits
+data/Signal_data/GluGluHToTauTau/PU
+data/Signal_data/GluGlutoHHto2B2WtoLNu2Q
+data/Signal_data/GluGlutoHHto2B2WtoLNu2Q/DATA
+data/Signal_data/GluGlutoHHto2B2WtoLNu2Q/ET
+data/Signal_data/GluGlutoHHto2B2WtoLNu2Q/HT
+data/Signal_data/GluGlutoHHto2B2WtoLNu2Q/L1bits
+data/Signal_data/GluGlutoHHto2B2WtoLNu2Q/PU
+data/Signal_data/HHHTo6B
+data/Signal_data/HHHTo6B/DATA
+data/Signal_data/HHHTo6B/ET
+data/Signal_data/HHHTo6B/HT
+data/Signal_data/HHHTo6B/L1bits
+data/Signal_data/HHHTo6B/PU
+data/Signal_data/HHHto4B2Tau
+data/Signal_data/HHHto4B2Tau/DATA
+data/Signal_data/HHHto4B2Tau/ET
+data/Signal_data/HHHto4B2Tau/HT
+data/Signal_data/HHHto4B2Tau/L1bits
+data/Signal_data/HHHto4B2Tau/PU
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm/DATA
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm/ET
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm/HT
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm/L1bits
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm/PU
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm/DATA
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm/ET
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm/HT
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm/L1bits
+data/Signal_data/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm/PU
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm/DATA
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm/ET
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm/HT
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm/L1bits
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm/PU
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm/DATA
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm/ET
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm/HT
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm/L1bits
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm/PU
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm/DATA
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm/ET
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm/HT
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm/L1bits
+data/Signal_data/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm/PU
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm/DATA
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm/ET
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm/HT
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm/L1bits
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm/PU
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm/DATA
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm/ET
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm/HT
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm/L1bits
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm/PU
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm/DATA
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm/ET
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm/HT
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm/L1bits
+data/Signal_data/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm/PU
+data/Signal_data/SMS-Higgsino
+data/Signal_data/SMS-Higgsino/DATA
+data/Signal_data/SMS-Higgsino/ET
+data/Signal_data/SMS-Higgsino/HT
+data/Signal_data/SMS-Higgsino/L1bits
+data/Signal_data/SMS-Higgsino/PU
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-120
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-120/DATA
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-120/ET
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-120/HT
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-120/L1bits
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-120/PU
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-1200
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-1200/DATA
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-1200/ET
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-1200/HT
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-1200/L1bits
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-1200/PU
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-350
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-350/DATA
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-350/ET
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-350/HT
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-350/L1bits
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-350/PU
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-600
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-600/DATA
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-600/ET
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-600/HT
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-600/L1bits
+data/Signal_data/SUSYGluGluToBBHToBB_NarrowWidth_M-600/PU
+data/Signal_data/SingleNeutrino_E-10-gun
+data/Signal_data/SingleNeutrino_E-10-gun/DATA
+data/Signal_data/SingleNeutrino_E-10-gun/ET
+data/Signal_data/SingleNeutrino_E-10-gun/HT
+data/Signal_data/SingleNeutrino_E-10-gun/L1bits
+data/Signal_data/SingleNeutrino_E-10-gun/PU
+data/Signal_data/SingleNeutrino_Pt-2To20-gun
+data/Signal_data/SingleNeutrino_Pt-2To20-gun/DATA
+data/Signal_data/SingleNeutrino_Pt-2To20-gun/ET
+data/Signal_data/SingleNeutrino_Pt-2To20-gun/HT
+data/Signal_data/SingleNeutrino_Pt-2To20-gun/L1bits
+data/Signal_data/SingleNeutrino_Pt-2To20-gun/PU
+data/Signal_data/VBFHToCC
+data/Signal_data/VBFHToCC/DATA
+data/Signal_data/VBFHToCC/ET
+data/Signal_data/VBFHToCC/HT
+data/Signal_data/VBFHToCC/L1bits
+data/Signal_data/VBFHToCC/PU
+data/Signal_data/VBFHToInvisible
+data/Signal_data/VBFHToInvisible/DATA
+data/Signal_data/VBFHToInvisible/ET
+data/Signal_data/VBFHToInvisible/HT
+data/Signal_data/VBFHToInvisible/L1bits
+data/Signal_data/VBFHToInvisible/PU
+data/Signal_data/VBFHToTauTau
+data/Signal_data/VBFHToTauTau/DATA
+data/Signal_data/VBFHToTauTau/ET
+data/Signal_data/VBFHToTauTau/HT
+data/Signal_data/VBFHToTauTau/L1bits
+data/Signal_data/VBFHToTauTau/PU
+data/Signal_data/VBFHto2B
+data/Signal_data/VBFHto2B/DATA
+data/Signal_data/VBFHto2B/ET
+data/Signal_data/VBFHto2B/HT
+data/Signal_data/VBFHto2B/L1bits
+data/Signal_data/VBFHto2B/PU
+data/Signal_data/WToTauTo3Mu
+data/Signal_data/WToTauTo3Mu/DATA
+data/Signal_data/WToTauTo3Mu/ET
+data/Signal_data/WToTauTo3Mu/HT
+data/Signal_data/WToTauTo3Mu/L1bits
+data/Signal_data/WToTauTo3Mu/PU
+data/Signal_data/ggXToJpsiJpsiTo2Mu2E_m7
+data/Signal_data/ggXToJpsiJpsiTo2Mu2E_m7/DATA
+data/Signal_data/ggXToJpsiJpsiTo2Mu2E_m7/ET
+data/Signal_data/ggXToJpsiJpsiTo2Mu2E_m7/HT
+data/Signal_data/ggXToJpsiJpsiTo2Mu2E_m7/L1bits
+data/Signal_data/ggXToJpsiJpsiTo2Mu2E_m7/PU
+data/Signal_data/ggXToYYTo2Mu2E_m18
+data/Signal_data/ggXToYYTo2Mu2E_m18/DATA
+data/Signal_data/ggXToYYTo2Mu2E_m18/ET
+data/Signal_data/ggXToYYTo2Mu2E_m18/HT
+data/Signal_data/ggXToYYTo2Mu2E_m18/L1bits
+data/Signal_data/ggXToYYTo2Mu2E_m18/PU
+data/Signal_data/ggXToYYTo2Mu2E_m26
+data/Signal_data/ggXToYYTo2Mu2E_m26/DATA
+data/Signal_data/ggXToYYTo2Mu2E_m26/ET
+data/Signal_data/ggXToYYTo2Mu2E_m26/HT
+data/Signal_data/ggXToYYTo2Mu2E_m26/L1bits
+data/Signal_data/ggXToYYTo2Mu2E_m26/PU
+data/Signal_data/haa-4b-ma15-POWHEG
+data/Signal_data/haa-4b-ma15-POWHEG/DATA
+data/Signal_data/haa-4b-ma15-POWHEG/ET
+data/Signal_data/haa-4b-ma15-POWHEG/HT
+data/Signal_data/haa-4b-ma15-POWHEG/L1bits
+data/Signal_data/haa-4b-ma15-POWHEG/PU
+data/Signal_data/ttHto2B
+data/Signal_data/ttHto2B/DATA
+data/Signal_data/ttHto2B/ET
+data/Signal_data/ttHto2B/HT
+data/Signal_data/ttHto2B/L1bits
+data/Signal_data/ttHto2B/PU
+data/Signal_data/ttHto2C
+data/Signal_data/ttHto2C/DATA
+data/Signal_data/ttHto2C/ET
+data/Signal_data/ttHto2C/HT
+data/Signal_data/ttHto2C/L1bits
+data/Signal_data/ttHto2C/PU
+history
+history/EpochVae
+history/KLLossVae
+history/LrVae
+history/RecoLossVae
+history/TotalLossVae
+history/epoch_contrastive
+history/epoch_vae
+history/kld_loss_vae
+history/lr_contrastive
+history/lr_vae
+history/pure-pure
+history/pure-pure/GluGluHToBB_M-125
+history/pure-pure/GluGluHToGG_M-125
+history/pure-pure/GluGluHToGG_M-90
+history/pure-pure/GluGluHToTauTau
+history/pure-pure/GluGlutoHHto2B2WtoLNu2Q
+history/pure-pure/HHHTo6B
+history/pure-pure/HHHto4B2Tau
+history/pure-pure/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm
+history/pure-pure/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm
+history/pure-pure/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm
+history/pure-pure/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm
+history/pure-pure/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm
+history/pure-pure/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm
+history/pure-pure/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm
+history/pure-pure/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm
+history/pure-pure/SMS-Higgsino
+history/pure-pure/SUSYGluGluToBBHToBB_NarrowWidth_M-120
+history/pure-pure/SUSYGluGluToBBHToBB_NarrowWidth_M-1200
+history/pure-pure/SUSYGluGluToBBHToBB_NarrowWidth_M-350
+history/pure-pure/SUSYGluGluToBBHToBB_NarrowWidth_M-600
+history/pure-pure/SingleNeutrino_E-10-gun
+history/pure-pure/SingleNeutrino_Pt-2To20-gun
+history/pure-pure/VBFHToCC
+history/pure-pure/VBFHToInvisible
+history/pure-pure/VBFHToTauTau
+history/pure-pure/VBFHto2B
+history/pure-pure/WToTauTo3Mu
+history/pure-pure/ggXToJpsiJpsiTo2Mu2E_m7
+history/pure-pure/ggXToYYTo2Mu2E_m18
+history/pure-pure/ggXToYYTo2Mu2E_m26
+history/pure-pure/haa-4b-ma15-POWHEG
+history/pure-pure/ttHto2B
+history/pure-pure/ttHto2C
+history/raw-pure
+history/raw-pure/GluGluHToBB_M-125
+history/raw-pure/GluGluHToGG_M-125
+history/raw-pure/GluGluHToGG_M-90
+history/raw-pure/GluGluHToTauTau
+history/raw-pure/GluGlutoHHto2B2WtoLNu2Q
+history/raw-pure/HHHTo6B
+history/raw-pure/HHHto4B2Tau
+history/raw-pure/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm
+history/raw-pure/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm
+history/raw-pure/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm
+history/raw-pure/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm
+history/raw-pure/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm
+history/raw-pure/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm
+history/raw-pure/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm
+history/raw-pure/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm
+history/raw-pure/SMS-Higgsino
+history/raw-pure/SUSYGluGluToBBHToBB_NarrowWidth_M-120
+history/raw-pure/SUSYGluGluToBBHToBB_NarrowWidth_M-1200
+history/raw-pure/SUSYGluGluToBBHToBB_NarrowWidth_M-350
+history/raw-pure/SUSYGluGluToBBHToBB_NarrowWidth_M-600
+history/raw-pure/SingleNeutrino_E-10-gun
+history/raw-pure/SingleNeutrino_Pt-2To20-gun
+history/raw-pure/VBFHToCC
+history/raw-pure/VBFHToInvisible
+history/raw-pure/VBFHToTauTau
+history/raw-pure/VBFHto2B
+history/raw-pure/WToTauTo3Mu
+history/raw-pure/ggXToJpsiJpsiTo2Mu2E_m7
+history/raw-pure/ggXToYYTo2Mu2E_m18
+history/raw-pure/ggXToYYTo2Mu2E_m26
+history/raw-pure/haa-4b-ma15-POWHEG
+history/raw-pure/ttHto2B
+history/raw-pure/ttHto2C
+history/reco_loss_vae
+history/repr_loss_vicreg
+history/std_cov_vicreg
+history/std_loss_vicreg
+history/total_loss_vicreg
+history/total_vae_loss
+model
+model/decoder
+model/encoder
+model/trimmed_encoder
+model/trimmed_encoder/model_weights
+model/trimmed_encoder/model_weights/dot
+model/trimmed_encoder/model_weights/input_1
+model/trimmed_encoder/model_weights/q_dense
+model/trimmed_encoder/model_weights/q_dense/q_dense
+model/trimmed_encoder/model_weights/q_dense/q_dense/bias:0
+model/trimmed_encoder/model_weights/q_dense/q_dense/kernel:0
+model/trimmed_encoder/model_weights/q_dense_1
+model/trimmed_encoder/model_weights/q_dense_1/q_dense_1
+model/trimmed_encoder/model_weights/q_dense_1/q_dense_1/bias:0
+model/trimmed_encoder/model_weights/q_dense_1/q_dense_1/kernel:0
+model/trimmed_encoder/model_weights/q_dense_2
+model/trimmed_encoder/model_weights/q_dense_2/q_dense_2
+model/trimmed_encoder/model_weights/q_dense_2/q_dense_2/bias:0
+model/trimmed_encoder/model_weights/q_dense_2/q_dense_2/kernel:0
+model/trimmed_encoder/model_weights/q_dense_3
+model/trimmed_encoder/model_weights/q_dense_3/q_dense_3
+model/trimmed_encoder/model_weights/q_dense_3/q_dense_3/bias:0
+model/trimmed_encoder/model_weights/q_dense_3/q_dense_3/kernel:0
+model/trimmed_encoder/model_weights/q_dense_4
+model/trimmed_encoder/model_weights/q_dense_4/variational_auto_encoder
+model/trimmed_encoder/model_weights/q_dense_4/variational_auto_encoder/vae__encoder
+model/trimmed_encoder/model_weights/q_dense_4/variational_auto_encoder/vae__encoder/q_dense_4
+model/trimmed_encoder/model_weights/q_dense_4/variational_auto_encoder/vae__encoder/q_dense_4/bias:0
+model/trimmed_encoder/model_weights/q_dense_4/variational_auto_encoder/vae__encoder/q_dense_4/kernel:0
+model/trimmed_encoder/model_weights/q_dense_6
+model/trimmed_encoder/model_weights/q_dense_6/q_dense_6
+model/trimmed_encoder/model_weights/q_dense_6/q_dense_6/bias:0
+model/trimmed_encoder/model_weights/q_dense_6/q_dense_6/kernel:0
+model/trimmed_encoder/model_weights/q_dense_7
+model/trimmed_encoder/model_weights/q_dense_7/q_dense_7
+model/trimmed_encoder/model_weights/q_dense_7/q_dense_7/bias:0
+model/trimmed_encoder/model_weights/q_dense_7/q_dense_7/kernel:0
+model/trimmed_encoder/model_weights/q_dense_8
+model/trimmed_encoder/model_weights/q_dense_8/q_dense_8
+model/trimmed_encoder/model_weights/q_dense_8/q_dense_8/bias:0
+model/trimmed_encoder/model_weights/q_dense_8/q_dense_8/kernel:0
+model/trimmed_encoder/model_weights/subtract
+model/trimmed_encoder/model_weights/top_level_model_weights
+results
+results/axo_scores
+results/axo_scores/0.01
+results/axo_scores/0.01/AXO pure-pure
+results/axo_scores/0.01/AXO pure-raw
+results/axo_scores/0.01/AXO raw-pure
+results/axo_scores/0.01/AXO raw-raw
+results/axo_scores/0.01/HT Efficiency
+results/axo_scores/0.01/L1 Efficiency
+results/axo_scores/0.01/Signal Name
+results/axo_scores/0.02
+results/axo_scores/0.02/AXO pure-pure
+results/axo_scores/0.02/AXO pure-raw
+results/axo_scores/0.02/AXO raw-pure
+results/axo_scores/0.02/AXO raw-raw
+results/axo_scores/0.02/HT Efficiency
+results/axo_scores/0.02/L1 Efficiency
+results/axo_scores/0.02/Signal Name
+results/axo_scores/0.05
+results/axo_scores/0.05/AXO pure-pure
+results/axo_scores/0.05/AXO pure-raw
+results/axo_scores/0.05/AXO raw-pure
+results/axo_scores/0.05/AXO raw-raw
+results/axo_scores/0.05/HT Efficiency
+results/axo_scores/0.05/L1 Efficiency
+results/axo_scores/0.05/Signal Name
+results/axo_scores/0.1
+results/axo_scores/0.1/AXO pure-pure
+results/axo_scores/0.1/AXO pure-raw
+results/axo_scores/0.1/AXO raw-pure
+results/axo_scores/0.1/AXO raw-raw
+results/axo_scores/0.1/HT Efficiency
+results/axo_scores/0.1/L1 Efficiency
+results/axo_scores/0.1/Signal Name
+results/axo_scores/0.15
+results/axo_scores/0.15/AXO pure-pure
+results/axo_scores/0.15/AXO pure-raw
+results/axo_scores/0.15/AXO raw-pure
+results/axo_scores/0.15/AXO raw-raw
+results/axo_scores/0.15/HT Efficiency
+results/axo_scores/0.15/L1 Efficiency
+results/axo_scores/0.15/Signal Name
+results/axo_scores/0.2
+results/axo_scores/0.2/AXO pure-pure
+results/axo_scores/0.2/AXO pure-raw
+results/axo_scores/0.2/AXO raw-pure
+results/axo_scores/0.2/AXO raw-raw
+results/axo_scores/0.2/HT Efficiency
+results/axo_scores/0.2/L1 Efficiency
+results/axo_scores/0.2/Signal Name
+results/axo_scores/0.25
+results/axo_scores/0.25/AXO pure-pure
+results/axo_scores/0.25/AXO pure-raw
+results/axo_scores/0.25/AXO raw-pure
+results/axo_scores/0.25/AXO raw-raw
+results/axo_scores/0.25/HT Efficiency
+results/axo_scores/0.25/L1 Efficiency
+results/axo_scores/0.25/Signal Name
+results/axo_scores/0.3
+results/axo_scores/0.3/AXO pure-pure
+results/axo_scores/0.3/AXO pure-raw
+results/axo_scores/0.3/AXO raw-pure
+results/axo_scores/0.3/AXO raw-raw
+results/axo_scores/0.3/HT Efficiency
+results/axo_scores/0.3/L1 Efficiency
+results/axo_scores/0.3/Signal Name
+results/axo_scores/0.5
+results/axo_scores/0.5/AXO pure-pure
+results/axo_scores/0.5/AXO pure-raw
+results/axo_scores/0.5/AXO raw-pure
+results/axo_scores/0.5/AXO raw-raw
+results/axo_scores/0.5/HT Efficiency
+results/axo_scores/0.5/L1 Efficiency
+results/axo_scores/0.5/Signal Name
+results/axo_scores/0.6
+results/axo_scores/0.6/AXO pure-pure
+results/axo_scores/0.6/AXO pure-raw
+results/axo_scores/0.6/AXO raw-pure
+results/axo_scores/0.6/AXO raw-raw
+results/axo_scores/0.6/HT Efficiency
+results/axo_scores/0.6/L1 Efficiency
+results/axo_scores/0.6/Signal Name
+results/axo_scores/1
+results/axo_scores/1/AXO pure-pure
+results/axo_scores/1/AXO pure-raw
+results/axo_scores/1/AXO raw-pure
+results/axo_scores/1/AXO raw-raw
+results/axo_scores/1/HT Efficiency
+results/axo_scores/1/L1 Efficiency
+results/axo_scores/1/Signal Name
+results/axo_scores/10
+results/axo_scores/10/AXO pure-pure
+results/axo_scores/10/AXO pure-raw
+results/axo_scores/10/AXO raw-pure
+results/axo_scores/10/AXO raw-raw
+results/axo_scores/10/HT Efficiency
+results/axo_scores/10/L1 Efficiency
+results/axo_scores/10/Signal Name
+results/axo_scores/105
+results/axo_scores/105/AXO pure-pure
+results/axo_scores/105/AXO pure-raw
+results/axo_scores/105/AXO raw-pure
+results/axo_scores/105/AXO raw-raw
+results/axo_scores/105/HT Efficiency
+results/axo_scores/105/L1 Efficiency
+results/axo_scores/105/Signal Name
+results/axo_scores/110
+results/axo_scores/110/AXO pure-pure
+results/axo_scores/110/AXO pure-raw
+results/axo_scores/110/AXO raw-pure
+results/axo_scores/110/AXO raw-raw
+results/axo_scores/110/HT Efficiency
+results/axo_scores/110/L1 Efficiency
+results/axo_scores/110/Signal Name
+results/axo_scores/2
+results/axo_scores/2/AXO pure-pure
+results/axo_scores/2/AXO pure-raw
+results/axo_scores/2/AXO raw-pure
+results/axo_scores/2/AXO raw-raw
+results/axo_scores/2/HT Efficiency
+results/axo_scores/2/L1 Efficiency
+results/axo_scores/2/Signal Name
+results/axo_scores/3
+results/axo_scores/3/AXO pure-pure
+results/axo_scores/3/AXO pure-raw
+results/axo_scores/3/AXO raw-pure
+results/axo_scores/3/AXO raw-raw
+results/axo_scores/3/HT Efficiency
+results/axo_scores/3/L1 Efficiency
+results/axo_scores/3/Signal Name
+results/axo_scores/5
+results/axo_scores/5/AXO pure-pure
+results/axo_scores/5/AXO pure-raw
+results/axo_scores/5/AXO raw-pure
+results/axo_scores/5/AXO raw-raw
+results/axo_scores/5/HT Efficiency
+results/axo_scores/5/L1 Efficiency
+results/axo_scores/5/Signal Name
+results/raw_wrt_pure
+results/raw_wrt_pure/pure
+results/raw_wrt_pure/raw
+results/score_hist
+results/score_hist/background
+results/score_hist/background/bin
+results/score_hist/background/count
+results/score_hist/signal
+results/score_hist/signal/GluGluHToBB_M-125
+results/score_hist/signal/GluGluHToBB_M-125/bin
+results/score_hist/signal/GluGluHToBB_M-125/count
+results/score_hist/signal/GluGluHToGG_M-125
+results/score_hist/signal/GluGluHToGG_M-125/bin
+results/score_hist/signal/GluGluHToGG_M-125/count
+results/score_hist/signal/GluGluHToGG_M-90
+results/score_hist/signal/GluGluHToGG_M-90/bin
+results/score_hist/signal/GluGluHToGG_M-90/count
+results/score_hist/signal/GluGluHToTauTau
+results/score_hist/signal/GluGluHToTauTau/bin
+results/score_hist/signal/GluGluHToTauTau/count
+results/score_hist/signal/GluGlutoHHto2B2WtoLNu2Q
+results/score_hist/signal/GluGlutoHHto2B2WtoLNu2Q/bin
+results/score_hist/signal/GluGlutoHHto2B2WtoLNu2Q/count
+results/score_hist/signal/HHHTo6B
+results/score_hist/signal/HHHTo6B/bin
+results/score_hist/signal/HHHTo6B/count
+results/score_hist/signal/HHHto4B2Tau
+results/score_hist/signal/HHHto4B2Tau/bin
+results/score_hist/signal/HHHto4B2Tau/count
+results/score_hist/signal/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm
+results/score_hist/signal/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm/bin
+results/score_hist/signal/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-100000mm/count
+results/score_hist/signal/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm
+results/score_hist/signal/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm/bin
+results/score_hist/signal/HTo2LongLivedTo4b_MH-1000_MFF-450_CTau-10000mm/count
+results/score_hist/signal/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm
+results/score_hist/signal/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm/bin
+results/score_hist/signal/HTo2LongLivedTo4b_MH-125_MFF-12_CTau-900mm/count
+results/score_hist/signal/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm
+results/score_hist/signal/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm/bin
+results/score_hist/signal/HTo2LongLivedTo4b_MH-125_MFF-25_CTau-1500mm/count
+results/score_hist/signal/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm
+results/score_hist/signal/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm/bin
+results/score_hist/signal/HTo2LongLivedTo4b_MH-125_MFF-50_CTau-3000mm/count
+results/score_hist/signal/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm
+results/score_hist/signal/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm/bin
+results/score_hist/signal/HTo2LongLivedTo4mu_MH-125_MFF-12_CTau-900mm/count
+results/score_hist/signal/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm
+results/score_hist/signal/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm/bin
+results/score_hist/signal/HTo2LongLivedTo4mu_MH-125_MFF-25_CTau-1500mm/count
+results/score_hist/signal/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm
+results/score_hist/signal/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm/bin
+results/score_hist/signal/HTo2LongLivedTo4mu_MH-125_MFF-50_CTau-3000mm/count
+results/score_hist/signal/SMS-Higgsino
+results/score_hist/signal/SMS-Higgsino/bin
+results/score_hist/signal/SMS-Higgsino/count
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-120
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-120/bin
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-120/count
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-1200
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-1200/bin
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-1200/count
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-350
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-350/bin
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-350/count
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-600
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-600/bin
+results/score_hist/signal/SUSYGluGluToBBHToBB_NarrowWidth_M-600/count
+results/score_hist/signal/SingleNeutrino_E-10-gun
+results/score_hist/signal/SingleNeutrino_E-10-gun/bin
+results/score_hist/signal/SingleNeutrino_E-10-gun/count
+results/score_hist/signal/SingleNeutrino_Pt-2To20-gun
+results/score_hist/signal/SingleNeutrino_Pt-2To20-gun/bin
+results/score_hist/signal/SingleNeutrino_Pt-2To20-gun/count
+results/score_hist/signal/VBFHToCC
+results/score_hist/signal/VBFHToCC/bin
+results/score_hist/signal/VBFHToCC/count
+results/score_hist/signal/VBFHToInvisible
+results/score_hist/signal/VBFHToInvisible/bin
+results/score_hist/signal/VBFHToInvisible/count
+results/score_hist/signal/VBFHToTauTau
+results/score_hist/signal/VBFHToTauTau/bin
+results/score_hist/signal/VBFHToTauTau/count
+results/score_hist/signal/VBFHto2B
+results/score_hist/signal/VBFHto2B/bin
+results/score_hist/signal/VBFHto2B/count
+results/score_hist/signal/WToTauTo3Mu
+results/score_hist/signal/WToTauTo3Mu/bin
+results/score_hist/signal/WToTauTo3Mu/count
+results/score_hist/signal/ggXToJpsiJpsiTo2Mu2E_m7
+results/score_hist/signal/ggXToJpsiJpsiTo2Mu2E_m7/bin
+results/score_hist/signal/ggXToJpsiJpsiTo2Mu2E_m7/count
+results/score_hist/signal/ggXToYYTo2Mu2E_m18
+results/score_hist/signal/ggXToYYTo2Mu2E_m18/bin
+results/score_hist/signal/ggXToYYTo2Mu2E_m18/count
+results/score_hist/signal/ggXToYYTo2Mu2E_m26
+results/score_hist/signal/ggXToYYTo2Mu2E_m26/bin
+results/score_hist/signal/ggXToYYTo2Mu2E_m26/count
+results/score_hist/signal/haa-4b-ma15-POWHEG
+results/score_hist/signal/haa-4b-ma15-POWHEG/bin
+results/score_hist/signal/haa-4b-ma15-POWHEG/count
+results/score_hist/signal/ttHto2B
+results/score_hist/signal/ttHto2B/bin
+results/score_hist/signal/ttHto2B/count
+results/score_hist/signal/ttHto2C
+results/score_hist/signal/ttHto2C/bin
+results/score_hist/signal/ttHto2C/count
+results/threshold
+results/threshold/pure
+results/threshold/rate
+results/threshold/raw
